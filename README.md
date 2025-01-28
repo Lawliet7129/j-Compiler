@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a simple compiler for a custom programming language called "J" and a virtual stack machine to execute the generated assembly code. The compiler processes J source files, tokenizes the input, and generates assembly code compatible with a stack-based architecture. The virtual stack machine provides stack operations and arithmetic, logical, and control-flow constructs.
+This is a final project from CIS 240 that implements a simple compiler for a custom programming language called "J" and a virtual stack machine to execute the generated assembly code. The compiler processes J source files, tokenizes the input, and generates assembly code compatible with a stack-based architecture. The virtual stack machine provides stack operations and arithmetic, logical, and control-flow constructs.
 
 ## Features
 
